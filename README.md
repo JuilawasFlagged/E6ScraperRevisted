@@ -25,3 +25,7 @@ Konachan
 Rule34
 
 yande.re
+
+KNOWN ISSUES:
+
+exclusion wildcard (-) on windows is broken... will find a fix eventually 
