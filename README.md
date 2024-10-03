@@ -1,4 +1,4 @@
-Scraper was a Adult website scraper from 2021, the github owner of the last Repo went dark and now... its reuploaded for everyone to see.
+Scraper was a CLI Adult website scraper program from 2021, the github owner of the last Repo went dark and now... its reuploaded for everyone to see.
 
 Tutorial: Comming soon :tm:
 
