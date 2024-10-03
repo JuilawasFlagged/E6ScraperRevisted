@@ -26,6 +26,7 @@ Rule34
 
 yande.re
 
-KNOWN ISSUES:
+Protips:
 
-exclusion wildcard (-) on windows is broken... will find a fix eventually 
+On windows and Linux, to use Wildcard, use "" or '' make sure they're spaced out so ISSUES WONT ARRISE.
+(ex. -dir favorite ' -straight -rating:s -rating:q cum ')
