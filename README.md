@@ -2,6 +2,14 @@ Scraper was a Adult website scraper from 2021, the github owner of the last Repo
 
 Tutorial: Comming soon :tm:
 
+(Simplified) Feature list.
+
+Symotanious downloads
+
+MD5 hash checking (to prevent duplicates when updating a folder or when downloading from multiple sites at once)
+
+Really cool Debug mode
+
 Supported Websites
 
 E621 (its namesake, also bypasses standard blocklist)
